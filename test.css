@@ -1,0 +1,18 @@
+
+body {
+  background-color:lightblue;
+}
+
+h1 {
+  color: rgba(22, 117, 81, 0.699);
+  text-align: center;
+}
+h2{
+  color: firebrick;
+  text-align: center;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
